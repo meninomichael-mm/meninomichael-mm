@@ -10,5 +10,5 @@ Sempre empolgado com o "bom" uso da técnologia 🤪, e dependendo do "mal", tam
 <br>
 <h6>"Achar o que te faça 😁, é a 🔑 pra fugir dos seus problemas" [...] "Nós somos filhos da mesma 🌍"</h6>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=meninomichaelpgm)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=meninomichael-mm)
 <br>
